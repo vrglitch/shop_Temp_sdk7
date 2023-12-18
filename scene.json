@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "SDK7 Scene Template",
-    "description": "template scene with SDK7",
+    "title": "Worlds Templates - Shop",
+    "description": "Shop Template - SDK7",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
@@ -89,22 +89,19 @@
       "default": true,
       "position": {
         "x": [
-          0,
-          3
+          64
         ],
         "y": [
-          0,
-          0
+          2 
         ],
         "z": [
-          0,
-          3
+          79
         ]
       },
       "cameraTarget": {
-        "x": 8,
-        "y": 1,
-        "z": 8
+        "x": 64,
+        "y": 3,
+        "z": 64
       }
     }
   ],
