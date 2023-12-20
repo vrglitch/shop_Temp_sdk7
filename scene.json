@@ -7,9 +7,9 @@
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
-  "owner": "",
+  "owner": "Decentraland Foundation",
   "contact": {
-    "name": "SDK",
+    "name": "",
     "email": ""
   },
   "main": "bin/index.js",
@@ -92,7 +92,7 @@
           64
         ],
         "y": [
-          2 
+          2
         ],
         "z": [
           79
